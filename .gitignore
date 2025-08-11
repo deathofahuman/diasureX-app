@@ -1,0 +1,19 @@
+﻿# Virtual envs
+.venv/
+venv/
+
+# Build outputs
+build/
+dist/
+DiaSureX/
+
+# Binaries and installers
+*.exe
+*.pkg
+
+# IDE and temp
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.log
